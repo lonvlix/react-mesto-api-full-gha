@@ -1,0 +1,14 @@
+
+.header__container {
+    display: flex;
+    padding: 20px 0 0;
+    justify-content: space-between;
+    box-sizing: border-box;
+  }
+
+  
+  @media screen and (max-width: 1023px) {
+    .header__container {
+      padding: 0px 27px 0;
+    }
+  }

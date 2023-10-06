@@ -1,0 +1,11 @@
+
+.header__sign-out {
+    color: #b7b5b5;
+    background-color: transparent;
+    font-style: normal;
+    border: none;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 400;
+    cursor: pointer;
+  }

@@ -1,0 +1,16 @@
+.header__mail {
+    color: white;
+    margin: 0 0 0 24px;
+    font-size: 18px;
+    line-height: 22px;
+    padding: 0;
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  @media screen and (max-width: 767px) {
+    .header__mail {
+      margin: 0 0 18px;
+    }
+  }
+  

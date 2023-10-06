@@ -1,0 +1,14 @@
+.auth__input {
+    border-bottom: 2px solid white;
+    border: none;
+    color: #cccccc;
+    background-color: transparent;
+    min-width: 359px;
+    margin: 0 auto 30px;
+    outline: none;
+    padding-bottom: 10px;
+}
+
+.auth__input:last-child {
+    margin: 0;
+}

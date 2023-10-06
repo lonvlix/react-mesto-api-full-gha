@@ -1,0 +1,17 @@
+.page {
+    background-color: black;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    padding: 0;
+    margin: 0 auto;
+    min-width: 320px;
+    min-height: 100hv;
+    
+}
+
+@media screen and (min-width: 427px) {
+    .page {
+      padding-left: 19px;
+      padding-right: 19px;
+  }
+}
